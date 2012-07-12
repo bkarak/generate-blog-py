@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [<!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin 1 for XHTML//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">]>
+<rss version="0.92" xml:base="http://www.lf-py.gr/">
+<channel>
+	<title>Sample Weblog</title>
+	<link>http://www.lf-py.gr/</link>
+	<description>Sample Weblog</description>
+	<language>en</language>
+	<item>
+      <title>Blog entry 1 - Madamina (Opera)</title>
+      <link>blog-1.html</link>
+      <description>Enjoy!</description>
+      <pubDate>1 April 2008</pubDate>
+   </item>
+   <item>
+      <title>Blog entry 2 - WAM (Composer)</title>
+      <link>blog-2.html</link>
+      <description>Enjoy!</description>
+      <pubDate>2 April 2008</pubDate>
+   </item>
+</channel>
+</rss>
